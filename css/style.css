@@ -112,6 +112,10 @@ a:link, a:visited, a:active, a:hover {
 }
 
 nav { text-align: center; padding: 1em 0; }
+nav#bottom { padding: 1em 2em; }
+		nav#bottom a:link, a:visited, a:active, a:hover {
+			color: black; text-decoration: underline;
+		}
 
 div.row { 
 	width: 1200px;

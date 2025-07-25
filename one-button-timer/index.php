@@ -10,7 +10,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>News - One Button Apps</title>
+<title>Privacy - One Button Apps</title>
 <meta name="description" content="One button apps makes elegant mobile software that needs to explanation.">
 <?php include $dots . '/php/head.php'; ?>
 </head>
@@ -20,7 +20,7 @@
 	<div id="page">
 
 		<div class="row">
-			<h1>NEWS & ANNOUNCEMENTS</h1> 
+			<h1>ABOUT 1-BUTTON</h1> 
 		</div>
 
 		<?php include $dots . '/php/above.php'; ?>
